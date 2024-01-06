@@ -27,7 +27,7 @@ namespace GourmetGame
             Console.WriteLine("Pense em uma comida e aperte qualquer tecla");
 
             string? input = Console.ReadLine();
-            if (input == exitLine)
+            if (input!.ToUpper() == exitLine)
                 Environment.Exit(0);
         }
 
