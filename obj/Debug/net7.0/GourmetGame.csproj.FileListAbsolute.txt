@@ -1,0 +1,15 @@
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/bin/Debug/net7.0/GourmetGame
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/bin/Debug/net7.0/GourmetGame.deps.json
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/bin/Debug/net7.0/GourmetGame.runtimeconfig.json
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/bin/Debug/net7.0/GourmetGame.dll
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/bin/Debug/net7.0/GourmetGame.pdb
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/GourmetGame.csproj.AssemblyReference.cache
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/GourmetGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/GourmetGame.AssemblyInfoInputs.cache
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/GourmetGame.AssemblyInfo.cs
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/GourmetGame.csproj.CoreCompileInputs.cache
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/GourmetGame.dll
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/refint/GourmetGame.dll
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/GourmetGame.pdb
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/GourmetGame.genruntimeconfig.cache
+/Users/gpetenuci/Projects/GourmetGame/GourmetGame/obj/Debug/net7.0/ref/GourmetGame.dll
